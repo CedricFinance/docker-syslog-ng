@@ -1,0 +1,1 @@
+docker build -t syslog-ng:centos7.8 .
